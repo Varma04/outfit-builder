@@ -17,5 +17,10 @@
     "@types/node": "^20.17.30",
     "@types/react": "^18.3.20",
     "typescript": "^5.8.3"
-  }
+  },
+  "description": "- Drag and drop clothing items onto a canvas\r - Visualize outfit combinations in real-time\r - Add customized outfits to your cart\r - Beautiful, responsive design using TailwindCSS\r - Logo branding on every page",
+  "main": "tailwind.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
